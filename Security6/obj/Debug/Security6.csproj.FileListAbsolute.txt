@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\Security6\Security6\bin\Debug\Security6.exe.config
+C:\Users\Admin\source\repos\Security6\Security6\bin\Debug\Security6.exe
+C:\Users\Admin\source\repos\Security6\Security6\bin\Debug\Security6.pdb
+C:\Users\Admin\source\repos\Security6\Security6\obj\Debug\Security6.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Security6\Security6\obj\Debug\Security6.Form1.resources
+C:\Users\Admin\source\repos\Security6\Security6\obj\Debug\Security6.Properties.Resources.resources
+C:\Users\Admin\source\repos\Security6\Security6\obj\Debug\Security6.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Security6\Security6\obj\Debug\Security6.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Security6\Security6\obj\Debug\Security6.exe
+C:\Users\Admin\source\repos\Security6\Security6\obj\Debug\Security6.pdb
